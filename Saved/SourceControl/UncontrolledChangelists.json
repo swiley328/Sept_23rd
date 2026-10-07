@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/PlayerAssets/BP_CharacterFPS.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/BluePrints/Animations/ABP_Character.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/BluePrints/Animations/ASM_Shooting.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/BluePrints/Weapons/BP_WeaponBase.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/BluePrints/Animations/ASM_PipeAttack.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/BluePrints/Weapons/BP_Pipe.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/BluePrints/Weapons/BP_Gun.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/BluePrints/Weapons/BP_GrenadeLauncher.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/Fab/PBR_Game_Ready_RPG_Launcher/pbr_game_ready_rpg_launcher/StaticMeshes/SM_Grenadelauncher.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/Fab/1911_Pistol_-_High_Poly/SM_Gun.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/Meshes/SM_Gun.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/Meshes/SM_Grenadelauncher.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/Fab/1911_Pistol_-_High_Poly/T_1911_AO.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/Fab/1911_Pistol_-_High_Poly/T_1911_C.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/Fab/1911_Pistol_-_High_Poly/T_1911_M.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/Fab/1911_Pistol_-_High_Poly/T_1911_N.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/Fab/1911_Pistol_-_High_Poly/T_1911_R2.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/Fab/1911_Pistol_-_High_Poly/T_1911_C_Mat.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/Fab/1911_Pistol_-_High_Poly/T_1911_C_Mat_1.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/Fab/PBR_Game_Ready_RPG_Launcher/pbr_game_ready_rpg_launcher/Textures/pbr_game_ready_rpg_launcher_texture_0.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/Fab/PBR_Game_Ready_RPG_Launcher/pbr_game_ready_rpg_launcher/Textures/pbr_game_ready_rpg_launcher_texture_1.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/Fab/PBR_Game_Ready_RPG_Launcher/pbr_game_ready_rpg_launcher/Textures/pbr_game_ready_rpg_launcher_texture_2.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/Fab/PBR_Game_Ready_RPG_Launcher/pbr_game_ready_rpg_launcher/Materials/Scene_-_Root.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/Levels/L_LvlOne.umap",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/PlayerAssets/SKM_Player.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/PlayerAssets/SK_Player.uasset",
+				"C:/Users/swiley6/Desktop/Sept_23rd/Content/PlayerAssets/BP_CharacterBase.uasset"
+			]
+		}
+	]
+}
